@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hengkang-NetPipe-main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NetPipeServer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NetPipeClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
